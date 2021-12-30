@@ -4,7 +4,7 @@
 
 Ejecute el programa en su terminal
 ```
-git clone https://github.com/sky63l/Sistemas-de-Control-Avanzado-2021-B/blob/bb1a2a646eb257f8b50694b5d46fb7918636d8a1/SMC.py
+git clone https://github.com/sky63l/Sistemas-de-Control-Avanzado-2021-B/blob/af45d50a2d92d01647ecdb5801a526a60550159d/SMC.py
 python3 SMC.py
 ```
 
