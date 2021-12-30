@@ -2,7 +2,7 @@
 
 ## Prueba
 
-Ejecute el programa en su terminal
+Ejecute el programa en su terminal de Windows
 ```
 git clone https://github.com/sky63l/Sistemas-de-Control-Avanzado-2021-B
 cd Sistemas-de-Control-Avanzado-2021-B
