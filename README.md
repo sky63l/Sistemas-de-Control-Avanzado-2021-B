@@ -19,3 +19,15 @@ Librerias:
 -matplotlib: 3.4.3
 
 -scipy: 1.7.1
+
+## Resultados
+SMC.py
+Sin saturación
+
+![Figure_1](https://user-images.githubusercontent.com/91811505/156909269-170af1ce-980e-48c6-8c1e-08e6aae913d4.png)
+
+SMCSwitching.py
+Con saturación
+
+![Figure_2](https://user-images.githubusercontent.com/91811505/156909280-307a9580-a596-45d7-8742-b5e490d65375.png)
+
